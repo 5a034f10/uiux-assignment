@@ -7,7 +7,7 @@ https://uiuxfuckmylyfe.web.app/
 ## Explain the organization of your Components, and the props and state related to them
 Components are each cards, and I wrote the most of the logic in the App.tsx, bad code...
 
-here is the interface definition
+here is the interface definition!
 ```
 export interface ICourseCard {
 	courseName: string,
