@@ -1,0 +1,23 @@
+.coursecard-wrapper {
+	background-color: #f4f2ed;
+	width: 100%;
+	padding: 15px 15px;
+	padding-right: 10px;
+	border-radius: 10px;
+	font-family: "DM Sans", sans-serif !important;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.coursename {
+	font-weight: 700;
+	line-height: 20px;
+}
+
+.card-content {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	width: 264px;
+}
